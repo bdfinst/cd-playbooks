@@ -1,5 +1,7 @@
 # This Tall for Microservices
 
+Recommended minimum set of practices for successful microservice implementation.
+
 - [This Tall for Microservices](#this-tall-for-microservices)
   - [Cloud Native checklist](#cloud-native-checklist)
   - [Principles and Practices](#principles-and-practices)
@@ -12,7 +14,7 @@
     - [Isolate failure](#isolate-failure)
     - [Highly observable](#highly-observable)
     - [Culture of automation](#culture-of-automation)
-    - [References](#references)
+  - [References](#references)
 
 ## Cloud Native checklist
 
@@ -110,7 +112,7 @@ While practices may change over time, principles are expected to be less volatil
 - [Trunk based development](https://trunkbaseddevelopment.com/) over branching by feature/team/release to promote continuous integration practices.
 - **In the face of a lack of automation/provisioning/monitoring, prefer a properly structured monolith over many segregated smaller services.**
 
-### References
+## References
 
 - [Building Microservices](http://shop.oreilly.com/product/0636920033158.do) by Sam Newman
 - [12 Factor Application](https://12factor.net)
