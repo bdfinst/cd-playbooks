@@ -1,4 +1,3 @@
-# cd-playbooks
-CD Playbooks
+# CD Playbooks
 
 [This Tall for Microservices](./microservice-checklist.md)
